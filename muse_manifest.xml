@@ -1,0 +1,128 @@
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="фото.рф" resolutions="1x" timestamp="1462709182060">
+  <folder name="css">
+    <file name="site_global.css" crc="76569027"/>
+    <file name="index.css" crc="4276451764" ref="index"/>
+    <file name="nomq_index.css" crc="4158397492" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="207176553" ref="index"/>
+    <file name="museutils.js" crc="3790713428" ref="index"/>
+    <file name="whatinput.js" crc="84559013" ref="index"/>
+    <file name="jquery.watch.js" crc="4244854265" ref="index"/>
+    <file name="pie.js" crc="3827607177" ref="index"/>
+    <file name="webpro.js" crc="329496574" ref="index"/>
+    <file name="musewpslideshow.js" crc="394033048" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4265131668" ref="index"/>
+    <file name="touchswipe.js" crc="497316881" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="3895133147" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="bkg_03.jpg" crc="114254416" seo="true" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="bkg_02.jpg" crc="431156423" seo="true" ref="index"/>
+    <file name="bkg_04.jpg" crc="74305810" seo="true" ref="index"/>
+    <file name="arrows-u763-3-fr.png" crc="67791362" ref="index"/>
+    <file name="arrows-u741-3-fr.png" crc="143906170" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="img_9681-crop-u3872.jpg" crc="186939089" ref="index"/>
+    <file name="gallery_01.jpg" crc="4170160883" seo="true" ref="index"/>
+    <file name="gallery_03.jpg" crc="4090876642" seo="true" ref="index"/>
+    <file name="gallery_08.jpg" crc="234106280" seo="true" ref="index"/>
+    <file name="gallery_05.jpg" crc="3831300444" seo="true" ref="index"/>
+    <file name="gallery_02.jpg" crc="409909116" seo="true" ref="index"/>
+    <file name="gallery_07.jpg" crc="173501775" seo="true" ref="index"/>
+    <file name="gallery_04.jpg" crc="3925461885" seo="true" ref="index"/>
+    <file name="gallery_01-crop-u1928.jpg" crc="434914065" ref="index"/>
+    <file name="gallery_03-crop-u1934.jpg" crc="3840739893" ref="index"/>
+    <file name="gallery_08-crop-u1926.jpg" crc="80135571" ref="index"/>
+    <file name="gallery_05-crop-u1936.jpg" crc="4170820651" ref="index"/>
+    <file name="gallery_02-crop-u1922.jpg" crc="3887120636" ref="index"/>
+    <file name="gallery_07-crop-u1932.jpg" crc="4218228889" ref="index"/>
+    <file name="gallery_08-crop-u1930.jpg" crc="3779819801" ref="index"/>
+    <file name="gallery_04-crop-u1924.jpg" crc="8085193" ref="index"/>
+    <file name="arrows-mn_arrow_left white.png" crc="17866525" ref="index"/>
+    <file name="arrows-mn_arrow_left.png" crc="4126107877" ref="index"/>
+    <file name="arrows-mn_arrow_right white.png" crc="3810799187" ref="index"/>
+    <file name="arrows-mn_arrow_right.png" crc="4062137678" ref="index"/>
+    <file name="arrows-mn_close white.png" crc="4081992300" ref="index"/>
+    <file name="arrows-mn_close.png" crc="206776778" ref="index"/>
+    <file name="close 4-u3594.png" crc="37162195" ref="index"/>
+    <file name="close 4-u3594-r.png" crc="264684451" ref="index"/>
+    <file name="img_9681-crop-u38722.jpg" crc="4080820882" ref="index"/>
+    <file name="gallery_01-crop-u19282.jpg" crc="4132521135" ref="index"/>
+    <file name="gallery_03-crop-u19342.jpg" crc="3873444681" ref="index"/>
+    <file name="gallery_08-crop-u19262.jpg" crc="3896448782" ref="index"/>
+    <file name="gallery_05-crop-u19362.jpg" crc="3985121146" ref="index"/>
+    <file name="gallery_02-crop-u19222.jpg" crc="363909998" ref="index"/>
+    <file name="gallery_07-crop-u19322.jpg" crc="3980146734" ref="index"/>
+    <file name="gallery_08-crop-u19302.jpg" crc="3968761076" ref="index"/>
+    <file name="gallery_04-crop-u19242.jpg" crc="4255152888" ref="index"/>
+    <file name="close 4-u35942.png" crc="37162195" ref="index"/>
+    <file name="close 4-u3594-r2.png" crc="264684451" ref="index"/>
+    <file name="img_9681-crop-u38723.jpg" crc="4181277932" ref="index"/>
+    <file name="gallery_01500x334.jpg" crc="3875693654" seo="true" ref="index"/>
+    <file name="gallery_03500x334.jpg" crc="4096828589" seo="true" ref="index"/>
+    <file name="gallery_08510x309.jpg" crc="530839787" seo="true" ref="index"/>
+    <file name="gallery_05500x334.jpg" crc="3928228563" seo="true" ref="index"/>
+    <file name="gallery_02500x336.jpg" crc="281292745" seo="true" ref="index"/>
+    <file name="gallery_07500x325.jpg" crc="4158531500" seo="true" ref="index"/>
+    <file name="gallery_08500x303.jpg" crc="4243685509" seo="true" ref="index"/>
+    <file name="gallery_04500x333.jpg" crc="366122470" seo="true" ref="index"/>
+    <file name="close 4-u35943.png" crc="37162195" ref="index"/>
+    <file name="close 4-u3594-r3.png" crc="264684451" ref="index"/>
+    <file name="img_9681-crop-u38724.jpg" crc="425010002" ref="index"/>
+    <file name="gallery_01438x293.jpg" crc="273239494" seo="true" ref="index"/>
+    <file name="gallery_03438x293.jpg" crc="3760619356" seo="true" ref="index"/>
+    <file name="gallery_08459x278.jpg" crc="4092512870" seo="true" ref="index"/>
+    <file name="gallery_05438x293.jpg" crc="342650340" seo="true" ref="index"/>
+    <file name="gallery_02438x294.jpg" crc="4177407043" seo="true" ref="index"/>
+    <file name="gallery_07438x285.jpg" crc="3759442822" seo="true" ref="index"/>
+    <file name="gallery_08450x272.jpg" crc="442823796" seo="true" ref="index"/>
+    <file name="gallery_04438x292.jpg" crc="4026188067" seo="true" ref="index"/>
+    <file name="close 4-u35944.png" crc="37162195" ref="index"/>
+    <file name="close 4-u3594-r4.png" crc="264684451" ref="index"/>
+    <file name="img_9681-crop-u38725.jpg" crc="192909190" ref="index"/>
+    <file name="gallery_01-crop-u19283.jpg" crc="311406519" ref="index"/>
+    <file name="gallery_03-crop-u19343.jpg" crc="3975840395" ref="index"/>
+    <file name="gallery_08-crop-u19263.jpg" crc="4278249048" ref="index"/>
+    <file name="gallery_05-crop-u19363.jpg" crc="4038554569" ref="index"/>
+    <file name="gallery_02-crop-u19223.jpg" crc="3835226095" ref="index"/>
+    <file name="gallery_07-crop-u19323.jpg" crc="4043373166" ref="index"/>
+    <file name="gallery_08-crop-u19303.jpg" crc="378036827" ref="index"/>
+    <file name="gallery_04-crop-u19243.jpg" crc="3827190428" ref="index"/>
+    <file name="close 4-u35945.png" crc="37162195" ref="index"/>
+    <file name="close 4-u3594-r5.png" crc="264684451" ref="index"/>
+    <file name="gallery_01-crop-u19284.jpg" crc="139461307" ref="index"/>
+    <file name="gallery_03-crop-u19344.jpg" crc="510491695" ref="index"/>
+    <file name="gallery_08-crop-u19264.jpg" crc="3809704890" ref="index"/>
+    <file name="gallery_05-crop-u19364.jpg" crc="7697065" ref="index"/>
+    <file name="gallery_02-crop-u19224.jpg" crc="3839831312" ref="index"/>
+    <file name="gallery_07-crop-u19324.jpg" crc="276064275" ref="index"/>
+    <file name="gallery_08-crop-u19304.jpg" crc="126554427" ref="index"/>
+    <file name="gallery_04-crop-u19244.jpg" crc="4251975477" ref="index"/>
+    <file name="close 4-u35946.png" crc="37162195" ref="index"/>
+    <file name="close 4-u3594-r6.png" crc="264684451" ref="index"/>
+    <file name="img_9681-crop-u38726.jpg" crc="518164044" ref="index"/>
+    <file name="gallery_01440x294.jpg" crc="3807137206" seo="true" ref="index"/>
+    <file name="gallery_03440x294.jpg" crc="4160612909" seo="true" ref="index"/>
+    <file name="gallery_05440x294.jpg" crc="4038577828" seo="true" ref="index"/>
+    <file name="gallery_02440x296.jpg" crc="300272265" seo="true" ref="index"/>
+    <file name="gallery_07440x286.jpg" crc="4054587047" seo="true" ref="index"/>
+    <file name="gallery_04440x294.jpg" crc="118869864" seo="true" ref="index"/>
+    <file name="close 4-u35947.png" crc="37162195" ref="index"/>
+    <file name="close 4-u3594-r7.png" crc="264684451" ref="index"/>
+    <file name="img_9681-crop-u38727.jpg" crc="4027193463" ref="index"/>
+    <file name="gallery_01-crop-u19285.jpg" crc="3780604903" ref="index"/>
+    <file name="gallery_03-crop-u19345.jpg" crc="22080281" ref="index"/>
+    <file name="gallery_08-crop-u19265.jpg" crc="4063244489" ref="index"/>
+    <file name="gallery_05-crop-u19365.jpg" crc="504649294" ref="index"/>
+    <file name="gallery_02-crop-u19225.jpg" crc="4244857118" ref="index"/>
+    <file name="gallery_07-crop-u19325.jpg" crc="428920294" ref="index"/>
+    <file name="gallery_08-crop-u19305.jpg" crc="3905655619" ref="index"/>
+    <file name="gallery_04-crop-u19245.jpg" crc="4163639707" ref="index"/>
+    <file name="close 4-u35948.png" crc="37162195" ref="index"/>
+    <file name="close 4-u3594-r8.png" crc="264684451" ref="index"/>
+    <file name="img_9681-crop-u38728.jpg" crc="471458658" ref="index"/>
+  </folder>
+  <file name="index.html" crc="4097778894" seo="true" mt="1462708369271" redirect="true"/>
+</manifest>
